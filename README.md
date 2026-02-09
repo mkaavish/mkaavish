@@ -14,8 +14,6 @@ I'm a **Data Science student at UNT** with a background as a **Pharmacy Technici
 
 ## 🌱 Skills & Tools
 - **Languages:** Python, C#, SQL, HTML/CSS, JavaScript  
-- **Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch  
-- **Databases:** PostgreSQL, MySQL  
 - **Tools:** Git, GitHub, Jupyter, Tableau, VS Code  
 - **Healthcare/Pharmacy:** Medication data analysis, prescription workflow automation, pharmacy operations insights  
 ---
@@ -28,11 +26,6 @@ I'm a **Data Science student at UNT** with a background as a **Pharmacy Technici
 ## 💼 Professional Experience
 - **Pharmacy Technician at CVS** – Managed prescription workflow, ensured accuracy, and assisted with patient consultations  
 - Gained experience in **data management, workflow optimization, and customer service in healthcare**  
-
----
-
-## 📊 GitHub Stats
-![Kaavish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaavishhassan&show_icons=true&theme=dark&count_private=true)
 
 ---
 
