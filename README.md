@@ -30,8 +30,8 @@ I'm a **Data Science student at UNT** with a background as a **Pharmacy Technici
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: linkedin.com/in/mkaavish 
-- **Instagram**: instagram.com/kaavish.ftx 
+- **LinkedIn**: www.linkedin.com/in/mkaavish 
+- **Instagram**: www.instagram.com/kaavish.ftx 
 
 ---
 
