@@ -5,7 +5,7 @@ I'm a **Data Science student at UNT** with a background as a **Pharmacy Technici
 ---
 
 ## 🔭 I’m Currently Working On
-- Building and selling a **Pharmacy Inventory Forecasting and Optimiazation Tool**
+- Building and selling a **Pharmacy Inventory Forecasting and Optimiazation Tool** called RxPredict
 - Enhancing **Machine Learning and Deep Learning** skills  
 - Building **healthcare and retail analytics projects**  
 - Learning **Natural Language Processing (NLP)** and AI applications
