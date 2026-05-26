@@ -21,18 +21,7 @@ I'm a **Data Science student at UNT** with a background as a **Pharmacy Technici
 ---
 
 ## 🏆 Projects
-- Pharmacy Inventory Forecasting and Optimization tool
-      - Selling this tool as a service to indipendent pharmacies, targeting the DFW market
-      - This tool uses statistical models such as holt-winters, simple exponential smoothing, and crostons
-      - Phamracies import inventory and sales data as a CSV
-      - All information is presented in a neat and professional dashboard showing pharmacies key insights on their iventory such as:
-            - Active drugs
-            - Drugs nearing expiry or that are already expired
-            - Drugs below the reorder point
-            - Alerts (low stock, expiring, expired)
-            - Chart and forcast of each drugs sales
-            - Recomended order quantity based on demand and trends 
-
+- **[RxPredict](https://rxpredict.app)** — B2B SaaS platform for independent pharmacies. Forecasts drug demand using statistical models (SMA, Exponential Smoothing, Holt-Winters, Croston), generates automated reorder and expiry alerts, and supports bulk CSV/Excel dispensing data uploads. Built with Next.js, Neon PostgreSQL, Drizzle ORM, Clerk, and deployed on Vercel.
 ---
 
 ## 💼 Professional Experience
