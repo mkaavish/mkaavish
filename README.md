@@ -21,7 +21,7 @@ I'm a **Data Science student at UNT** with a background as a **Pharmacy Technici
 ---
 
 ## 🏆 Projects
-- **[RxPredict]([https://rxpredict.app])** — B2B SaaS platform for independent pharmacies. Forecasts drug demand using statistical models (SMA, Exponential Smoothing, Holt-Winters, Croston), generates automated reorder and expiry alerts, and supports bulk CSV/Excel dispensing data uploads. Built with Next.js, Neon PostgreSQL, Drizzle ORM, Clerk, and deployed on Vercel.
+- **[RxPredict](https://rxpredict.app)** — B2B SaaS platform for independent pharmacies. Forecasts drug demand using statistical models (SMA, Exponential Smoothing, Holt-Winters, Croston), generates automated reorder and expiry alerts, and supports bulk CSV/Excel dispensing data uploads. Built with Next.js, Neon PostgreSQL, Drizzle ORM, Clerk, and deployed on Vercel.
 ---
 
 ## 💼 Professional Experience
