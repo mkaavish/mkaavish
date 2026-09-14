@@ -14,8 +14,8 @@ I'm a **Data Science student at UNT** with a background as a **Pharmacy Technici
 ---
 
 ## 🌱 Skills & Tools
-- **Languages:** Python, C#, SQL, HTML/CSS, JavaScript, Typescript, Swift 
-- **Tools:** Git, GitHub, Jupyter, Tableau, VS Code, X Code, Vercel, Neon PostgresSQL, Clerk, Claude  
+- **Languages:** Python, C#, SQL, HTML/CSS, JavaScript, Typescript, Swift, Nex.js
+- **Tools:** Git, GitHub, Jupyter, Cloudflare, VS Code, X Code, Vercel, Neon PostgresSQL, Clerk, Claude  
 - **Healthcare/Pharmacy:** Medication data analysis, prescription workflow automation, pharmacy operations insights
 
 ---
