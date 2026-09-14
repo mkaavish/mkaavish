@@ -22,7 +22,7 @@ I'm a **Data Science student at UNT** with a background as a **Pharmacy Technici
 
 ## 🏆 Projects
 - **[RxPredict](https://rxpredict.app)** — B2B SaaS platform for independent pharmacies. Forecasts drug demand using statistical models (SMA, Exponential Smoothing, Holt-Winters, Croston), generates automated reorder and expiry alerts, and supports bulk CSV/Excel dispensing data uploads. Built with Next.js, Neon PostgreSQL, Drizzle ORM, Clerk, and deployed on Vercel.
-- **[GetMeHired](https://devpost.com/software/get-me-hired-atm4x1?ref_content=my-projects-tab&ref_feature=my_projects)** - GetMeHired is an AI-powered interview platform that provides realistic mock interviews with AI-generated scoring, feedback, and timestamped insights. Built in 36 hours at **HackRice**.
+- **[GetMeHired](https://devpost.com/software/get-me-hired-atm4x1?ref_content=my-projects-tab&ref_feature=my_projects)** — GetMeHired is an AI-powered interview platform that provides realistic mock interviews with AI-generated scoring, feedback, and timestamped insights. Built in 36 hours at **HackRice**.
 ---
 
 ## 💼 Professional Experience
