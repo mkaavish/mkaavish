@@ -34,6 +34,22 @@ Currently, I'm focused on building **AI developer tools**, **data products**, an
 
 ## Featured Projects
 
+### RxPredict
+
+**Inventory intelligence for independent pharmacies.**
+
+B2B SaaS platform that forecasts medication demand using statistical models including **SMA, Exponential Smoothing, Holt-Winters, and Croston**. Generates reorder recommendations, inventory alerts, and expiry insights from pharmacy dispensing data.
+
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Clerk` `Vercel` `Forecasting`
+
+<p>
+  <a href="https://rxpredict.app">
+    <img src="https://img.shields.io/badge/Visit%20RxPredict-rxpredict.app-111827?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 ### `cmd/` — CmdSlash
 
 **Tell your Mac what to do.**
@@ -61,22 +77,6 @@ An open-source Claude Code skill for running forecasting workflows from the comm
 <p>
   <a href="https://forecast-skill.vercel.app/">
     <img src="https://img.shields.io/badge/Website%20%26%20Documentation-Visit-111827?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-### RxPredict
-
-**Inventory intelligence for independent pharmacies.**
-
-B2B SaaS platform that forecasts medication demand using statistical models including **SMA, Exponential Smoothing, Holt-Winters, and Croston**. Generates reorder recommendations, inventory alerts, and expiry insights from pharmacy dispensing data.
-
-`Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Clerk` `Vercel` `Forecasting`
-
-<p>
-  <a href="https://rxpredict.app">
-    <img src="https://img.shields.io/badge/Visit%20RxPredict-rxpredict.app-111827?style=for-the-badge" />
   </a>
 </p>
 
